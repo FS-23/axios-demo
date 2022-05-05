@@ -6,7 +6,7 @@ Utilisation de l'api axios avec ReactJs
 
 ## installation
 
- ### ` npm install axio `
+ ### ` npm install axios `
  
  
 ## documentation 
